@@ -1,0 +1,1 @@
+# Clasificador-componentes-electronicos
