@@ -3,7 +3,7 @@
 El proyecto consiste en un sistema que permite separar y clasificar componentes electrónicos, utilizando técnicas de visión artificial, diseño mecánico.
 Consulta en https://youtu.be/x4WwQsQavkM y https://youtu.be/3oi_tgKlCLg para obtener mas información sobre como funciona el proyecto.
 
-<img src="https://github.com/Daniellgi/Clasificador-componentes-electronicos/blob/main/interfaz.png" width="500" height="600">
+<img src="https://github.com/Daniellgi/Clasificador-componentes-electronicos/blob/main/interfaz.png" width="700" height="388">
 
 ## Requisitos previos para su ejecución
 
