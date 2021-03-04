@@ -6,7 +6,6 @@ from tkinter import ttk
 from tkinter import messagebox
 from PIL import Image, ImageTk #Para descargar la librería que me deja subir fotos en la ventana principal
 import numpy as np
-import cv2
 import PIL.Image, PIL.ImageTk
 import serial
 arduino = serial.Serial("COM4", 9600)
